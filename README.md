@@ -7,6 +7,7 @@ Each line afterward should be of width [number of lines] and only include obstac
 
 Use the "perl map generator" to generate example maps. In this perlscript, you can replace the "o", "x" and "." with other symbols.
 
+Terminal directions to run:
 * make
 * call ./create_map.pl [width] [height] [density] > map // (density is be a number between 0 and width*height.)
 * ./bsq map
