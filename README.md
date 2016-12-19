@@ -12,4 +12,4 @@ Terminal directions to run:
 * call ./create_map.pl [width] [height] [density] > map // (density is be a number between 0 and width*height.)
 * ./bsq map
 
-Created with help from Alex Sosnov in October 2016.
+Created with help from Alex Sosnov in October 2016. Algorithm instruction from Jackson Gabbard (https://www.youtube.com/watch?v=VNbkzsnllsU&t=418s)
